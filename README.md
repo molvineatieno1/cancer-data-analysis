@@ -63,3 +63,19 @@ Interactive Excel dashboard presenting cancer-related indicators and visualisati
 Cancer Analysis Report
 PDF report presenting the analysis, interpretation of findings and key observations.
 
+
+Project Deliverables
+
+1. Cancer Data Dashboard
+
+An Excel dashboard presenting cancer-related indicators and visualisations.
+
+[View Excel Dashboard](./Breast Cancer Project.xlsx)
+
+2. Cancer Analysis Report
+
+A PDF report presenting the analysis, interpretation of findings and key observations.
+
+[View Analysis Report](./BREAST CANCER DATA ANALYSIS REPORT.pdf)
+
+
