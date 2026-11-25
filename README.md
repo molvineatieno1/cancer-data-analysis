@@ -32,7 +32,7 @@ Skills Demonstrated
 - Microsoft Excel – Data preparation, calculations, analysis and dashboard development.
 - Microsoft Word – Report writing and presentation.
 
- Conclusion
+Conclusion
 
 This project strengthened my ability to interpret data, communicate findings and present information to support evidence-based decision-making.
 
@@ -53,3 +53,13 @@ Tools Used
 
 - Microsoft Excel – Data preparation, calculations, analysis and dashboard development.
 - Microsoft Word – Report writing and formatting.
+
+  
+Project Deliverables
+
+Cancer Data Dashboard
+Interactive Excel dashboard presenting cancer-related indicators and visualisations.
+
+Cancer Analysis Report
+PDF report presenting the analysis, interpretation of findings and key observations.
+
