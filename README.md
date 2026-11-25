@@ -35,3 +35,21 @@ Skills Demonstrated
  Conclusion
 
 This project strengthened my ability to interpret data, communicate findings and present information to support evidence-based decision-making.
+
+
+Project Deliverables
+
+1. Cancer Data Dashboard
+An Excel dashboard presenting key cancer indicators through data visualisations.
+
+[View Excel Dashboard](./Cancer_Dashboard.xlsx)
+
+2. Cancer Analysis Report
+A PDF report presenting the analysis, interpretation of findings and key observations.
+
+[View Analysis Report](./Cancer_Analysis_Report.pdf)
+
+Tools Used
+
+- Microsoft Excel – Data preparation, calculations, analysis and dashboard development.
+- Microsoft Word – Report writing and formatting.
