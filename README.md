@@ -2,80 +2,38 @@
 Cancer Data Analysis Project
 
 Project Overview
+This project explores cancer trends across 51 countries over a 28-year period. The analysis focuses on understanding cancer incidence, mortality, survival rates and mammography coverage.
 
-This project focuses on analysing cancer-related data to understand cancer incidence, mortality, survival rates and screening coverage.
+The aim was to identify key patterns and present the findings in a clear, easy-to-understand dashboard.
 
-The aim is to interpret the available data, identify important findings and communicate insights through data visualisation and reporting.
-
-Project Objectives
-
-- Analyse cancer-related indicators.
-- Examine patterns in cancer incidence and mortality.
-- Understand survival rates and screening coverage.
-- Present findings through a dashboard and analytical report.
-
-Project Deliverables
-
-1. Cancer Analysis Report: Detailed interpretation of the findings and key observations.
-2. Cancer Dashboard: Visual presentation of important indicators and analytical findings.
-
-Skills Demonstrated
-
-- Data Analysis
-- Statistical Interpretation
-- Data Visualisation
-- Research and Reporting
-- Insight Communication
-
- Tools Used
-
-- Microsoft Excel – Data preparation, calculations, analysis and dashboard development.
-- Microsoft Word – Report writing and presentation.
-
-Conclusion
-
-This project strengthened my ability to interpret data, communicate findings and present information to support evidence-based decision-making.
-
-
-Project Deliverables
-
-1. Cancer Data Dashboard
-An Excel dashboard presenting key cancer indicators through data visualisations.
-
-[View Excel Dashboard](./Cancer_Dashboard.xlsx)
-
-2. Cancer Analysis Report
-A PDF report presenting the analysis, interpretation of findings and key observations.
-
-[View Analysis Report](./Cancer_Analysis_Report.pdf)
+Objectives
+- Examine cancer trends across different countries.
+- Analyse new cancer cases and deaths.
+- Explore five-year survival rates.
+- Review mammography coverage.
+- Present key findings through data visualisation.
 
 Tools Used
+- Microsoft Excel – Data organisation, analysis and dashboard development.
 
-- Microsoft Excel – Data preparation, calculations, analysis and dashboard development.
-- Microsoft Word – Report writing and formatting.
-
-  
-Project Deliverables
-
-Cancer Data Dashboard
-Interactive Excel dashboard presenting cancer-related indicators and visualisations.
-
-Cancer Analysis Report
-PDF report presenting the analysis, interpretation of findings and key observations.
-
+Key Findings
+- 62.1 million new cancer cases.
+- 18.1 million cancer deaths.
+- 68.7% average five-year survival rate.
+- 31.8% average mammography coverage.
 
 Project Deliverables
+- [View Excel Dashboard](https://github.com/molvineatieno1/cancer-data-analysis/blob/main/Breast%20Cancer%20Project.xlsx)
+- [View PDF Analysis Report](https://github.com/molvineatieno1/cancer-data-analysis/blob/main/BREAST%20CANCER%20DATA%20ANALYSIS%20REPORT.pdf)
 
-1. Cancer Data Dashboard
+Skills Demonstrated
+- Data analysis
+- Data interpretation
+- Data visualisation
+- Dashboard development
+- Report writing
 
-An Excel dashboard presenting cancer-related indicators and visualisations.
+Author
+Molvine Atieno
 
-[View Excel Dashboard](./Breast Cancer Project.xlsx)
-
-2. Cancer Analysis Report
-
-A PDF report presenting the analysis, interpretation of findings and key observations.
-
-[View Analysis Report](./BREAST CANCER DATA ANALYSIS REPORT.pdf)
-
-
+Economics and Statistics Graduate | Aspiring Data Analyst
