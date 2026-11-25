@@ -7,7 +7,7 @@ This project explores cancer trends across 51 countries over a 28-year period. T
 
 Dashboard Preview
 
-[Breast Cancer Analysis Dashboard](https://github.com/molvineatieno1/cancer-data-analysis/blob/main/Screenshot%202026-11-26%20000723.png)
+[Breast Cancer Analysis Dashboard](https://raw.githubusercontent.com/molvineatieno1/cancer-data-analysis/main/Screenshot%202026-11-26%20000723.png)
 
 
 The aim was to identify key patterns and present the findings in a clear, easy-to-understand dashboard.
